@@ -10,9 +10,8 @@ export default function Gallery() {
                         src="/gallery-1.png"
                         loading="lazy"
                         alt="Gallery image 1"
-                        className="w-full h-full object-cover"
                         style={{ height: '100%' }}
-                        className="w-full h-auto object-cover transition-transform duration-300 hover:scale-105"
+                        className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                     />
                 </div>
 
@@ -25,9 +24,8 @@ export default function Gallery() {
                         src="/gallery-2.png"
                         loading="lazy"
                         alt="Gallery image 2"
-                        className="w-full h-full object-cover"
                         style={{ height: '100%' }}
-                        className="w-full h-auto object-cover transition-transform duration-300 hover:scale-105"
+                        className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
                     />
                 </div>
             </div>
