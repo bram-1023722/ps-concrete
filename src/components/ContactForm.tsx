@@ -28,7 +28,8 @@ export default function ContactForm() {
         return (
             <section className="py-16 text-center bg-white">
                 <h2 className="text-3xl font-bold mb-4">Thank you!</h2>
-                <p className="text-gray-600">We'll be in touch soon.</p>
+                <p className="text-gray-600">We&rsquo;ll get back to you soon!</p>
+
             </section>
         );
     }
